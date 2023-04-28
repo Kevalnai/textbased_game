@@ -1,8 +1,7 @@
 #-------------------------------------------------------------------------------
 # Program Name: Milestone 3
-# Created By  : Meetkumar Patel
-# Course Name : CS 230
-# Due Date:  23/04/2023
+# Created By  : KEVAL NAI
+# Date:  23/04/2023
 # ------------------------------------------------------------------------------
 """  Your program should use a data structure to store the game world’s data.
 The best structure for this would be a dictionary of dictionaries. The outer
