@@ -1,7 +1,7 @@
 #-------------------------------------------------------------------------------
 # Program Name: Milestone 2
-# Created By  : Meetkumar Patel
-# Due Date:  06/04/2023
+# Created By  : KEVAL NAI
+# Date:  06/04/2023
 # ------------------------------------------------------------------------------
 """  Your program should use a data structure to store the game world’s data.
 The best structure for this would be a dictionary of dictionaries. The outer
