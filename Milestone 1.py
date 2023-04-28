@@ -1,7 +1,7 @@
 #----------------------------------------------------------------------------
 # Program Name: Milestone 1
-# Created By  : Meetkumar Patel
-# Due Date:  19/03/2023
+# Created By  : KEVAL NAI
+# Date:  19/03/2023
 # ---------------------------------------------------------------------------
 """  In this game, the user is the player who will enter in responses to
 prompts you give them.  The game will respond to the player’s inputs providing
